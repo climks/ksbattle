@@ -78,7 +78,7 @@
     "http-server": "^0.12.3",
     "jsdoc-to-markdown": "^6.0.1",
     "jshint": "^2.11.1",
-    "mocha": "^7.2.0",
+    "mocha": "^10.2.0",
     "npm-watch": "^0.6.0",
     "rimraf": "^3.0.2",
     "sinon": "^9.0.2",
